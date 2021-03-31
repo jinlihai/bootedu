@@ -1,0 +1,2 @@
+com/edu/test/bootedu/HelloControllerTest.java
+ com.edu.test.bootedu.HelloControllerTest
